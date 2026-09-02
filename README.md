@@ -1,5 +1,3 @@
-# pontos-turisticos-e-viagensCurso de desenvolvimento de sistemas
-
 🤖 Projeto de Desenvolvimento de sistemas — Aplicações em GPS
 📋 Informações Gerais	📍 Detalhes
 Curso	desenvolvimento de sistemas
@@ -10,7 +8,7 @@ Bruno Coelho
 Dafne Esther
 Emanuelle Alkimin
 João Tosatte
-professor:Mizael Souto
+Mizael Souto
 📌 Sobre o Projeto
 Este projeto aborda o planejamento, organização e roteirização inteligente para Viagens em Família na América, explorando a integração sinérgica entre logística de transporte, orçamento familiar, segurança, conforto e experiências culturais para o desenvolvimento de roteiros inesquecíveis e harmoniosos.
 
